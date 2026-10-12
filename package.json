@@ -1,0 +1,11 @@
+{
+  "name": "kundalik",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Login, parol va uchta maxfiy savol bilan himoyalangan shaxsiy kundalik",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "setup": "node setup.js",
+    "start": "node server.js"
+  }
+}
